@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #151765;
+    background-size: cover;
+    height: 32vh;
+    width: 100vw;
+}
+
+.image {
+    height: 120px;
+    width: 160px;
+    padding: 8px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.paragraph1 {
+    font-size: 11px;
+    font-family: "roboto";
+    color: white;
+    margin-top: 20px;
+}
+
+.paragraph2 {
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    font-family: "roboto";
+}
+
+.paragraph3 {
+    font-size: 10px;
+    font-family: "roboto";
+    color: white;
+}
+
+.names {
+    color: #151765;
+    font-size: 15px;
+    font-family: "roboto";
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.para {
+    color: #5a7184;
+    font-size: 13px;
+}
+
+.time {
+    color: #151765;
+    font-size: 9px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.button {
+    color: white;
+    background-color: #151765;
+    border-radius: 15px;
+    width: 80px;
+    font-family: "roboto";
+    font-size: 12px;
+}
+
+.bg-container {
+    height: 70vh;
+    width: 100vw;
+    background-size: cover;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+}
+
+.heading {
+    color: white;
+    padding: 15px;
+    font-family: "roboto";
+    font-size: 30px;
+}
+
+.image {
+    height: 140px;
+    width: 170px;
+    padding: 15px;
+}
+
+.name {
+    color: #151765;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.episodes {
+    color: #5a7184;
+}
+
+.box-container {
+    text-align: center;
+    padding: 1px;
+    margin: 1px;
+}
